@@ -660,6 +660,7 @@ footer span.copyright {
 }
 
 footer ul.quicklinks {
+  color:  white;
   font-size: 90%;
   line-height: 40px;
   margin-bottom: 0;
@@ -707,5 +708,5 @@ table td{
 }
 
 .navbar-brand img {
-  width: 300px;
+  width: 250px;
 }
